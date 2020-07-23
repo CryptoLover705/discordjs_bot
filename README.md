@@ -26,14 +26,14 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
 
 ### Repo Stats
-* Forks ![GitHub forks](https://img.shields.io/github/forks/CryptoLover705/discord.js_TemplateBot-Tutorial_Series?style=social)
-* Stars ![GitHub stars](https://img.shields.io/github/stars/CryptoLover705/discord.js_TemplateBot-Tutorial_Series?style=social)
-* StarGazers ![GitHub watchers](https://img.shields.io/github/watchers/CryptoLover705/discord.js_TemplateBot-Tutorial_Series?style=social)
-* Commits ![GitHub last commit](https://img.shields.io/github/last-commit/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
-* Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
-* Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
-* Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
-* Language the bot uses most of ![GitHub top language](https://img.shields.io/github/languages/top/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
+* Forks ![GitHub forks](https://img.shields.io/github/forks/CryptoLover705/discordjs_bot?style=social)
+* Stars ![GitHub stars](https://img.shields.io/github/stars/CryptoLover705/discordjs_bot?style=social)
+* StarGazers ![GitHub watchers](https://img.shields.io/github/watchers/CryptoLover705/discordjs_bot?style=social)
+* Commits ![GitHub last commit](https://img.shields.io/github/last-commit/CryptoLover705/discordjs_bot)
+* Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/discordjs_bot)
+* Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/CryptoLover705/discordjs_bot)
+* Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/discordjs_bot)
+* Language the bot uses most of ![GitHub top language](https://img.shields.io/github/languages/top/CryptoLover705/discordjs_bot)
 
 
 ### Donation Addresses
