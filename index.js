@@ -10,3 +10,7 @@ const client = new Client({
 config({
     path: __dirname + "/.env"
 });
+
+client.once('ready', () => {
+    console.log(`${client.user.username} is now online`) // This is just some logging so it will tell you when the bot is online
+});
