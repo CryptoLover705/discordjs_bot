@@ -11,6 +11,9 @@ config({
     path: __dirname + "/.env"
 });
 
+// On ready event
 client.once('ready', () => {
     console.log(`${client.user.username} is now online`) // This is just some logging so it will tell you when the bot is online
 });
+
+client.login(process.env.TOKEN) // this allows us to use a .env 
