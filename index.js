@@ -33,7 +33,7 @@ for(const file of commandFiles) {
 client.on('ready', () => {
     client.user.setActivity("CryptoLoverBots", { type: "STREAMING", url: 'https://cryptoloverbots.com/index.html'})
 });
-
+ 
 client.on('message', async message => {
     if(message.author.bot) return; // This will disable bot DMs
     if(!message.guild) return;
