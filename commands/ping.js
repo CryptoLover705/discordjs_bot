@@ -2,7 +2,7 @@ const { MessageEmbed } = require('discord.js');
 
 module.exports = {
     name: 'ping',
-    description: "Return latency and API ping",
+    description: "Returns latency and API ping",
     run: async (client, message, args) => {
         let embed = new MessageEmbed()
         .setColor("GREEN")
